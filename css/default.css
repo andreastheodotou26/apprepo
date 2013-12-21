@@ -1,0 +1,15 @@
+.product {
+	width: 350px;
+	height:380px;
+	text-align:center;
+	float:left;
+	margin-left:15px;
+	margin-bottom:15px;
+	padding:5px;
+    background-color:#fff;
+border-radius: 3px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-box-shadow: 3px 3px 3px #666;                
+         -webkit-box-shadow: 3px 3px 3px #666;              
+        box-shadow:3px 3px 3px #666;}

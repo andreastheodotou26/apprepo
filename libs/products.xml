@@ -1,0 +1,410 @@
+<?xml version="1.0" ?>
+
+<products>
+  <product>
+    <MaterialNum>1004360</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Baby Love MINI 36's No.2</Description>
+    <ProdImage>nannys/1004360.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1004362</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Baby Love MIDI 58's No.3</Description>
+    <ProdImage>nannys/1004362.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1004364</MaterialNum>
+    <Brand>Nannys</Brand> 
+    <Description>Nannys Baby Love MAXI 48's No.4</Description>
+    <ProdImage>nannys/1004364.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1004366</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Baby Love MAXI + 44's No.4+</Description>
+    <ProdImage>nannys/1004366.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1004368</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Baby Love JUNIOR 40's No.5</Description>
+    <ProdImage>nannys/1004368.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1005492</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Baby Love JUNIOR PLUS 24's No.6</Description>
+    <ProdImage>nannys/1005492.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1000655</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare NEWBORN 44's No. 1</Description>
+    <ProdImage>nannys/1000655.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1000656</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MINIPLUS 44's No. 2</Description>
+    <ProdImage>nannys/1000656.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1000657</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MIDI 32's No.3</Description>
+    <ProdImage>nannys/1000657.jpg</ProdImage>
+    <Category>Baby</Category>
+  </product>
+  <product>
+    <MaterialNum>1000658</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MIDI 56's No.3</Description>
+    <ProdImage>nannys/1000658.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1000659</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MAXI 26's No.4</Description>
+    <ProdImage>nannys/1000659.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1000660</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MAXI 46's No.4</Description>
+    <ProdImage>nannys/1000660.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1000661</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MAXI PLUS 26's No.4+</Description>
+    <ProdImage>nannys/1000661.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1000662</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MAXI PLUS 46's No.4+</Description>
+    <ProdImage>nannys/1000662.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1000663</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare JUNIOR 24's No.5</Description>
+    <ProdImage>nannys/1000663.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1000664</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare JUNIOR PLUS 24's No.6</Description>
+    <ProdImage>nannys/1000664.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1006895</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MIDI BOX 112's No.3 5 OFF</Description>
+    <ProdImage>nannys/1006895.jpg</ProdImage>
+    <Category>Infant</Category>
+  </product>
+  <product>
+    <MaterialNum>1002680</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MAXI BOX 92's No.4 5 OFF</Description>
+    <ProdImage>nannys/1002680.jpg</ProdImage>
+    <Category>Kid</Category>
+  </product>
+  <product>
+    <MaterialNum>1002681</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare MAXI PLUS BOX 92's No.4+ 5 OFF</Description>
+    <ProdImage>nannys/1002681.jpg</ProdImage>
+    <Category>Kid</Category>
+  </product>
+  <product>
+    <MaterialNum>1002682</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Flexicare JUNIOR BOX 72's No.5 5 OFF</Description>
+    <ProdImage>nannys/1002682.jpg</ProdImage>
+    <Category>Kid</Category>
+  </product>
+  <product>
+    <MaterialNum>1006765</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Newborn Mini 28's No.1</Description>
+    <ProdImage>nannys/1006765.jpg</ProdImage>
+    <Category>Kid</Category>
+  </product>
+  <product>
+    <MaterialNum>1006766</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Mini Plus 26's No.2</Description>
+    <ProdImage>nannys/1006766.jpg</ProdImage>
+    <Category>Kid</Category>
+  </product>
+  <product>
+    <MaterialNum>1006767</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Midi 22's No.3</Description>
+    <ProdImage>nannys/1006767.jpg</ProdImage>
+    <Category>Kid</Category>
+  </product>
+  <product>
+    <MaterialNum>1006768</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Midi 56's No.3</Description>
+    <ProdImage>nannys/1006768.jpg</ProdImage>
+    <Category>Kid</Category>
+  </product>
+  <product>
+    <MaterialNum>1006769</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Maxi 50's No.4</Description>
+    <ProdImage>nannys/1006769.jpg</ProdImage>
+    <Category>Body</Category>
+  </product>
+  <product>
+    <MaterialNum>1006770</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Maxi Plus 46's No.4+</Description>
+    <ProdImage>nannys/1006770.jpg</ProdImage>
+    <Category>Body</Category>
+  </product>
+  <product>
+    <MaterialNum>1006771</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Junior 44's No.5</Description>
+    <ProdImage>nannys/1006771.jpg</ProdImage>
+    <Category>Body</Category>
+  </product>
+  <product>
+    <MaterialNum>1006772</MaterialNum>
+    <Brand>Nannys</Brand>
+    <Description>Nannys Sensitive Junior Plus 40's No.6</Description>
+    <ProdImage>nannys/1006772.jpg</ProdImage>
+    <Category>Body</Category>
+  </product>
+  <product>
+    <MaterialNum>1000682</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Panda 40's </Description>
+    <ProdImage>nannys/1000682.jpg</ProdImage>
+    <Category>Body</Category>
+  </product>
+  <product>
+    <MaterialNum>1000683</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Panda 80's </Description>
+    <ProdImage>nannys/1000683.jpg</ProdImage>
+    <Category>Body</Category>
+  </product>
+  <product>
+    <MaterialNum>1000692</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Aloe 20's </Description>
+    <ProdImage>nannys/1000692.jpg</ProdImage>
+    <Category>Body</Category>
+  </product>
+  <product>
+    <MaterialNum>1000685</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Aloe 40's </Description>
+    <ProdImage>nannys/1000685.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000684</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Aloe 72's </Description>
+    <ProdImage>nannys/1000684.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000693</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Votana 20's</Description>
+    <ProdImage>nannys/1000693.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000686</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Votana 72's</Description>
+    <ProdImage>nannys/1000686.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1002361</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Innocence Rose 20's</Description>
+    <ProdImage>nannys/1002361.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000698</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Innocence Rose 64's</Description>
+    <ProdImage>nannys/1000698.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000695</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Kids Princess 20's</Description>
+    <ProdImage>nannys/1000695.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000696</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Kids Bubbles 20's</Description>
+    <ProdImage>nannys/1000696.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1007220</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Kids Hello Kitty 80's</Description>
+    <ProdImage>nannys/1007220.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1007221</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Kids Tom Jerry 80's</Description>
+    <ProdImage>nannys/1007221.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1007222</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Kids Lo la Bunny 80's</Description>
+    <ProdImage>nannys/1007222.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000689</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Aloe 72's (2+1 Free)</Description>
+    <ProdImage>nannys/1000689.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1006630</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Aloe 72's 4 Pack 5 OFF</Description>
+    <ProdImage>nannys/1006630.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000690</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Votana 72's (2+1 Free)</Description>
+    <ProdImage>nannys/1000690.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000694</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Innocence 64's (2+1 Free)</Description>
+    <ProdImage>nannys/1000694.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000699</MaterialNum>
+    <Brand>Nannys Fresh</Brand>
+    <Description>Nannys Fresh Innocence Rose 64's (2+1 Free)</Description>
+    <ProdImage>nannys/1000699.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000996</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Super Small 15's No1</Description>
+    <ProdImage>tender/1000996.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000997</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Super Medium 15's No2</Description>
+    <ProdImage>tender/1000997.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1000998</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Super Large 15's No3</Description>
+    <ProdImage>tender/1000998.jpg</ProdImage>
+    <Category>Food</Category>
+  </product>
+  <product>
+    <MaterialNum>1001453</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Super Extra Large 15's No.4</Description>
+    <ProdImage>tender/1001453.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+  <product>
+    <MaterialNum>1000999</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Night Medium 15's No2</Description>
+    <ProdImage>tender/1000999.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+  <product>
+    <MaterialNum>1001000</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Night Large 15's No3</Description>
+    <ProdImage>tender/1001000.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+  <product>
+    <MaterialNum>1001452</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Premium Large 15's No3</Description>
+    <ProdImage>tender/1001452.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+  <product>
+    <MaterialNum>1003871</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Easyware Medium 20's </Description>
+    <ProdImage>tender/1003871.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+  <product>
+    <MaterialNum>1003872</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Easyware Large 18's </Description>
+    <ProdImage>tender/1003872.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+  <product>
+    <MaterialNum>1001002</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>40 Days 20's </Description>
+    <ProdImage>tender/1001002.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+  <product>
+    <MaterialNum>1001001</MaterialNum>
+    <Brand>Tender</Brand>
+    <Description>Tender Light 25's</Description>
+    <ProdImage>tender/1001001.jpg</ProdImage>
+    <Category>Sause</Category>
+  </product>
+</products>
