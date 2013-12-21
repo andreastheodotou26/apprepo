@@ -1,4 +1,4 @@
-apprepo
+Read me file for apprepo
 =======
 
 This is the app that i have created so far. My coding skills are not the best as it is not my strong hand. 
